@@ -13,5 +13,5 @@ def lower_comes_first(act_str):
     return "".join(low + up)
 
 
-res = lower_comes_first("PyNaTive");
+res = lower_comes_first("PyNaTive")
 print(res)
