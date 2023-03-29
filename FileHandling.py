@@ -2,3 +2,7 @@
 res = open("csvfile.txt", "a")
 res.write("\ncool 8 France")
 
+
+
+
+
